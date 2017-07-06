@@ -1,0 +1,15 @@
+p {
+ font-family:Florence,cursive;
+ font-style:italic;
+ font-weight:bold;
+ vertical-align:middle;
+ text-shadow:5px 2px 4px grey;
+ font-size:x-large;
+ color:green;
+ background-color:blue;
+ text-align: centre;
+  } 
+body {
+ background-color:black;
+ 
+     }
