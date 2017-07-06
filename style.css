@@ -1,4 +1,5 @@
 p {
+ width:100%;
  font-family:Florence,cursive;
  font-style:italic;
  font-weight:bold;
@@ -11,5 +12,5 @@ p {
   } 
 body {
  background-color: #000000;
- 
+ height: 100%;
      }
